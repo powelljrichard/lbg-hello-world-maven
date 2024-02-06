@@ -1,1 +1,1 @@
-added jenkins repo
+added jenkins repo site
